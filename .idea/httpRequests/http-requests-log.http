@@ -1,0 +1,37 @@
+GET http://127.0.0.1:8080/greeting?name=zhoutingxiu
+
+<> 2019-12-23T104456.200.json
+
+###
+
+GET http://127.0.0.1:8080/greeting
+
+<> 2019-12-23T104343.200.json
+
+###
+
+GET http://127.0.0.1:8080/greeting?name=zhoutingxiu
+
+<> 2019-12-23T104245.200.json
+
+###
+
+GET http://127.0.0.1:8080/greeting
+
+<> 2019-12-23T104013.200.json
+
+###
+
+GET http://127.0.0.1:8080/actuator
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2019-12-23T103959.200.json
+
+###
+
+GET http://127.0.0.1:8080/error
+
+<> 2019-12-23T103928.500.json
+
+###
+

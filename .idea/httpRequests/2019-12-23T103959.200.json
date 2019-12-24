@@ -1,0 +1,20 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://127.0.0.1:8080/actuator",
+      "templated": false
+    },
+    "health-path": {
+      "href": "http://127.0.0.1:8080/actuator/health/{*path}",
+      "templated": true
+    },
+    "health": {
+      "href": "http://127.0.0.1:8080/actuator/health",
+      "templated": false
+    },
+    "info": {
+      "href": "http://127.0.0.1:8080/actuator/info",
+      "templated": false
+    }
+  }
+}
